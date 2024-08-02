@@ -1,0 +1,26 @@
+form{
+    background: rgb(0, 0, 0);
+    text-align: center;
+    width: 400px;
+    height: 250px;
+}
+
+.text{
+color: white;
+font-size: 25px;
+}
+
+.input{
+    border-radius: 15px;
+    border: none;
+    width: 150px;
+}
+
+button{
+    width: 150px;
+    height: 30px;
+    border-radius: 15px;
+    border: none;
+    background-color: blue;
+    color: white;
+}
